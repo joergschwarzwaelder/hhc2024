@@ -22,7 +22,7 @@ The Javascript sources give away the solutions:
             [4, 8, 13, 15]  // Set 4
         ];
 ```
-So from each individual word set, words 0,5,10,14 (Tinsel, Garland, Star, Lights) form one group, words 1,3,7,9 the next one and so on.
+So from each individual word set, words 0,5,10,14 (for set one: Tinsel, Garland, Star, Lights) form one group, words 1,3,7,9 the next one and so on.
 
 ## Easy
 Just complete the game according to the information from the JS sources.
@@ -44,5 +44,5 @@ The completion of this objective unlocks:
 - Elf Connect
 - Elf Minder 9000
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMjIwMTEzMiwtNDM3MjkwMjUyXX0=
+eyJoaXN0b3J5IjpbLTE4ODAzNDY4NDcsLTQzNzI5MDI1Ml19
 -->
