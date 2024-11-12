@@ -22,6 +22,7 @@ The Javascript sources give away the solutions:
             [4, 8, 13, 15]  // Set 4
         ];
 ```
+So from word set one, words #0,5,10,
 
 ## Easy
 Just complete the game according to the information from the JS sources.
@@ -43,5 +44,5 @@ The completion of this objective unlocks:
 - Elf Connect
 - Elf Minder 9000
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg4MTMzMzQ2LC00MzcyOTAyNTJdfQ==
+eyJoaXN0b3J5IjpbMTYzNDc4NjQ3NCwtNDM3MjkwMjUyXX0=
 -->
