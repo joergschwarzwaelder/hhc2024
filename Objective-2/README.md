@@ -1,4 +1,3 @@
-
 # Objective 2: Elf Connect
 
 **Difficultree: 🎄**  
@@ -44,5 +43,5 @@ The completion of this objective unlocks:
 - Elf Connect
 - Elf Minder 9000
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzI5MDI1Ml19
+eyJoaXN0b3J5IjpbOTg4MTMzMzQ2LC00MzcyOTAyNTJdfQ==
 -->
