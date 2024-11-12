@@ -6,7 +6,7 @@
 This objective consists out of four rounds with 16 words each.
 The 16 words have to be grouped into four groups with four words each, which share something in common.
 
-The Javascript sources give away the solutions:
+The Javascript source gives away the solutions:
 ```
         const wordSets = {
             1: ["Tinsel", "Sleigh", "Belafonte", "Bag", "Comet", "Garland", "Jingle Bells", "Mittens", "Vixen", "Gifts", "Star", "Crosby", "White Christmas", "Prancer", "Lights", "Blitzen"],
@@ -40,5 +40,5 @@ Next, simply complete one single group of four words.
 
 **Achievement: [Gold] Elf Connect**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NzY4NTM4NCwtNDM3MjkwMjUyXX0=
+eyJoaXN0b3J5IjpbMTAyOTkzMzEwOCwtNDM3MjkwMjUyXX0=
 -->
