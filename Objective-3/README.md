@@ -8,7 +8,7 @@ This objective is about the completion of a game, where the player needs to coll
 ## Easy
 To get the silver achievement, the first 12 levels have to be completed.
 The first four are straight forward.
-The remaining levels are shown here. The panels marked blue have to be rotates as needed.
+The remaining levels are shown here. The panels marked blue have to be rotated as needed.
 #### Level 4: Dune Dash
 ![Level 4: Dune Dash](Level%204%20-%20Dune%20Dash.png) 
 #### Level 5: Coral Cove
@@ -55,7 +55,7 @@ If more than two springs are positioned in the level, a "whyCantIHoldAllTheseSpr
 ### Spring jump to [0,0]
 If the player jumps using a spring and in the jump direction there is no path, but a positioned element, the player jumps to [0,0]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDUzMzcyODgsLTY0NTcyOTMxMywxNz
+eyJoaXN0b3J5IjpbLTE2ODU4MzMwNDcsLTY0NTcyOTMxMywxNz
 QyMzYxNzMwLC0xMjY5OTgzNjEsLTU3NTY2ODc4MywtMjAxMTUx
 OTY0XX0=
 -->
