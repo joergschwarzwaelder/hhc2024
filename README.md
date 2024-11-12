@@ -3,6 +3,7 @@
 **Write-up submitted by Joerg Schwarzwaelder** (hhc@schwarzwaelder.name)  
 **In-game character: joergen** 
 
+** This
 **Disclaimer:** All information and code in this repository is provided as-is, probably not without errors and not ready for production use.
 
 ![HHC2024 Logo](images/holidayhack2024.png) 
@@ -26,6 +27,6 @@ Santa seems to be missing.
 ## Holiday Eggs
 TBC
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjU3Mzc0MjgsOTU3ODk0MzU0LDEzNj
+eyJoaXN0b3J5IjpbLTEzNjk0NTI4NjIsOTU3ODk0MzU0LDEzNj
 MzMzc3NV19
 -->
