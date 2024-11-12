@@ -4,7 +4,7 @@
 **Location: Frosty's Beach**
 
 This objective consists out of four rounds with 16 words each.
-The 16 words have to be grouped into four groups with four words each, which share something in common.
+The 16 words have to be grouped into four groups with four words each, sharing something in common.
 
 The Javascript source gives away the solutions:
 ```
@@ -40,5 +40,6 @@ Next, simply complete one single group of four words.
 
 **Achievement: [Gold] Elf Connect**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDU4MTQwMDksLTQzNzI5MDI1Ml19
+eyJoaXN0b3J5IjpbNzk4MzcwMTE5LC0xNjQ1ODE0MDA5LC00Mz
+cyOTAyNTJdfQ==
 -->
