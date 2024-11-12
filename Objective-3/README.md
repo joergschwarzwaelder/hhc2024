@@ -1,5 +1,3 @@
-
-
 # Objective 3: Elf Minder 9000
 
 **Difficultree: 🎄**  
@@ -36,5 +34,5 @@ If more than two springs are positioned in the level, a "whyCantIHoldAllTheseSpr
 ### Spring jump to [0,0]
 If the player jumps using a spring and in the jump direction there is no path, but a positioned element, the player jumps to [0,0]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTE1MTk2NF19
+eyJoaXN0b3J5IjpbMjE0Mzc0NDMyOCwtMjAxMTUxOTY0XX0=
 -->
