@@ -8,11 +8,24 @@ This objective is about the completion of an game, where the player needs to col
 ## Easy
 To get the silver achievement, the first 12 levels have to be completed.
 The first four are straight forward.
-The remaining levels are shown here. The panel marked blue has to be rotates as needed.
+The remaining levels are shown here. The panels marked blue have to be rotates as needed.
 #### Level 4: Dune Dash
 ![Level 4: Dune Dash](Level%204%20-%20Dune%20Dash.png) 
 #### Level 5: Coral Cove
 ![Level 5: Coral Cove](Level%205%20-%20Coral%20Cove.png)
+#### Level 5: Coral Cove
+![Level 5: Coral Cove](Level%205%20-%20Coral%20Cove.png)
+#### Level 5: Coral Cove
+![Level 5: Coral Cove](Level%205%20-%20Coral%20Cove.png)
+#### Level 5: Coral Cove
+![Level 5: Coral Cove](Level%205%20-%20Coral%20Cove.png)
+#### Level 5: Coral Cove
+![Level 5: Coral Cove](Level%205%20-%20Coral%20Cove.png)
+#### Level 5: Coral Cove
+![Level 5: Coral Cove](Level%205%20-%20Coral%20Cove.png)
+#### Level 5: Coral Cove
+![Level 5: Coral Cove](Level%205%20-%20Coral%20Cove.png)
+
 **Achievement: [Silver] Elf Minder 9000**
 
 ## Hard
@@ -25,6 +38,10 @@ Path:
 ```
 game.segments=[[[1,1],[2,1]],[[2,1],[3,1]],[[8,1],[9,1]],[[9,1],[9,2]],[[9,2],[9,3]],[[9,6],[9,7]],[[9,7],[8,7]],[[8,7],[7,7]],[[7,7],[6,7]],[[6,7],[5,7]],[[5,7],[5,6]],[[5,6],[5,5]],[[5,5],[5,4]],[[5,4],[5,3]],[[4,7],[3,7]],[[3,7],[2,7]],[[1,7],[2,7]],[[11,9],[10,9]]]
 ```
+
+#### Level 13: A Real Pickle
+![Level 13: A Real Pickle](Level%2013%20-%20A%20Real%20Pickle.png)
+
 **Achievement: [Gold] Elf Minder 9000**
 
 ## additional
@@ -37,6 +54,6 @@ If more than two springs are positioned in the level, a "whyCantIHoldAllTheseSpr
 ### Spring jump to [0,0]
 If the player jumps using a spring and in the jump direction there is no path, but a positioned element, the player jumps to [0,0]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNDcwMzg1MSwtMTI2OTk4MzYxLC01Nz
-U2Njg3ODMsLTIwMTE1MTk2NF19
+eyJoaXN0b3J5IjpbLTE1Njg0MTk3MjYsLTEyNjk5ODM2MSwtNT
+c1NjY4NzgzLC0yMDExNTE5NjRdfQ==
 -->
