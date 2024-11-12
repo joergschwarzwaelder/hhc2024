@@ -7,7 +7,7 @@
 
 ![HHC2024 Logo](images/holidayhack2024.png) 
 
-## ### Snow-maggedon
+### Snow-maggedon
 
 **Background information:**  
 TBC
@@ -25,5 +25,5 @@ TBC
 ## Holiday Eggs
 TBC
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzMzNzc1XX0=
+eyJoaXN0b3J5IjpbMTAwMzUzNzg2NywxMzYzMzM3NzVdfQ==
 -->
