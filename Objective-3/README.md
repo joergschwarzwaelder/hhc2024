@@ -13,12 +13,12 @@ The remaining levels are shown here. The panels marked blue have to be rotates a
 ![Level 4: Dune Dash](Level%204%20-%20Dune%20Dash.png) 
 #### Level 5: Coral Cove
 ![Level 5: Coral Cove](Level%205%20-%20Coral%20Cove.png)
-#### Level 5: Coral Cove
-![Level 5: Coral Cove](Level%205%20-%20Coral%20Cove.png)
-#### Level 5: Coral Cove
-![Level 5: Coral Cove](Level%205%20-%20Coral%20Cove.png)
-#### Level 5: Coral Cove
-![Level 5: Coral Cove](Level%205%20-%20Coral%20Cove.png)
+#### Level 6: Shell Seekers
+![Level 6: Shell Seekers](Level%206%20-%20Shell%20Seekers.png)
+#### Level 7: Palm Grove Shuffle
+![Level 7: Palm Grove Shuffle](Level%207%20-%20Palm%20Grove%20Shuffle.png)
+#### Level 8: Tropical Tangle
+![Level 8: Tropical Tangle](Level%208%20-%20tropical%20Tangle.png)
 #### Level 5: Coral Cove
 ![Level 5: Coral Cove](Level%205%20-%20Coral%20Cove.png)
 #### Level 5: Coral Cove
@@ -54,6 +54,6 @@ If more than two springs are positioned in the level, a "whyCantIHoldAllTheseSpr
 ### Spring jump to [0,0]
 If the player jumps using a spring and in the jump direction there is no path, but a positioned element, the player jumps to [0,0]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njg0MTk3MjYsLTEyNjk5ODM2MSwtNT
-c1NjY4NzgzLC0yMDExNTE5NjRdfQ==
+eyJoaXN0b3J5IjpbMTc3MDM5NTk2NCwtMTI2OTk4MzYxLC01Nz
+U2Njg3ODMsLTIwMTE1MTk2NF19
 -->
