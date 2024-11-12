@@ -25,7 +25,7 @@ The Javascript source gives away the solutions:
 So from each individual word set, words 0,5,10,14 (for set one: Tinsel, Garland, Star, Lights) form one group, words 1,3,7,9 the next one and so on.
 
 ## Easy
-Just complete the game according to the information from the JS sources.
+Just complete the game according to the information from the JS source.
 
 **Achievement: [Silver] Elf Connect**
 
@@ -40,5 +40,5 @@ Next, simply complete one single group of four words.
 
 **Achievement: [Gold] Elf Connect**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTkzMzEwOCwtNDM3MjkwMjUyXX0=
+eyJoaXN0b3J5IjpbLTE2NDU4MTQwMDksLTQzNzI5MDI1Ml19
 -->
