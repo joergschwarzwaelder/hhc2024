@@ -26,8 +26,8 @@ Santa seems to be missing.
  - [Objective 3: Elf Minder 9000](Objective-3)
 
 ## Holiday Eggs
-TBC
+to be added
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MjE4Mzc4Miw5NTc4OTQzNTQsMTM2Mz
-MzNzc1XX0=
+eyJoaXN0b3J5IjpbMTA3NzI5MTQzMSwtODcyMTgzNzgyLDk1Nz
+g5NDM1NCwxMzYzMzM3NzVdfQ==
 -->
