@@ -14,7 +14,7 @@ TBC
 
 [Online Game](https://2024.holidayhackchallenge.com/)
 
-[Location of NPC, Terminals, and Items](Directory.md) TBC
+[Location of NPC, Terminals, and Items](Directory.md)
 
 ## Objectives
 
@@ -25,5 +25,6 @@ TBC
 ## Holiday Eggs
 TBC
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3ODk0MzU0LDEzNjMzMzc3NV19
+eyJoaXN0b3J5IjpbLTE5MTY5NjkxNzcsOTU3ODk0MzU0LDEzNj
+MzMzc3NV19
 -->
