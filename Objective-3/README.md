@@ -24,7 +24,7 @@ The remaining levels are shown here. The panels marked blue have to be rotates a
 #### Level 10: Shoreline Shuffle
 ![Level 10: Shoreline Shuffle](Level%2010%20-%20Sjhoreline%20Shuffle.png)
 #### Level 11: Beachy Bounty
-![Level 11: Beachy Bounty](Level%2011%20-%20Coral%20Cove.png)
+![Level 11: Beachy Bounty](Level%2011%20-%20Beachy%20Bounty.png)
 
 **Achievement: [Silver] Elf Minder 9000**
 
@@ -54,6 +54,6 @@ If more than two springs are positioned in the level, a "whyCantIHoldAllTheseSpr
 ### Spring jump to [0,0]
 If the player jumps using a spring and in the jump direction there is no path, but a positioned element, the player jumps to [0,0]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQ4Nzg2ODUsLTEyNjk5ODM2MSwtNT
-c1NjY4NzgzLC0yMDExNTE5NjRdfQ==
+eyJoaXN0b3J5IjpbMTE3Mzc3ODUyMCwtMTI2OTk4MzYxLC01Nz
+U2Njg3ODMsLTIwMTE1MTk2NF19
 -->
