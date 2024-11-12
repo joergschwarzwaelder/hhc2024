@@ -3,8 +3,8 @@
 **Difficultree: 🎄**  
 **Location: Frosty's Beach**
 
-This objective consists out of four round with 16 words each.
-The 16 words have to be groups into four groups with four words each, which share something in common.
+This objective consists out of four rounds with 16 words each.
+The 16 words have to be grouped into four groups with four words each, which share something in common.
 
 The Javascript sources give away the solutions:
 ```
@@ -40,5 +40,5 @@ Next, simply complete one single group of four words.
 
 **Achievement: [Gold] Elf Connect**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3MzkzNTEzLC00MzcyOTAyNTJdfQ==
+eyJoaXN0b3J5IjpbLTg5NzY4NTM4NCwtNDM3MjkwMjUyXX0=
 -->
