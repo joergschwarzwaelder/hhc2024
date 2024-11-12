@@ -4,7 +4,7 @@
 **Location: Frosty's Beach**
 
 This objective is about the completion of a game, where the player needs to collect crates while following a chosen and pre-defined route.
-The player travels from the green starting flag to the checked goal flag. Up to two springs (for jumping) and to tunnel elements (to teleport) can be added to the screen. 
+The player travels from the green starting flag to the checked goal flag. Up to two springs (for jumping) and two tunnel elements (to teleport) can be added to the screen. 
 
 ## Easy
 To get the silver achievement, the first 12 levels have to be completed.
@@ -56,7 +56,7 @@ If more than two springs are positioned in the level, a "whyCantIHoldAllTheseSpr
 ### Spring jump to [0,0]
 If the player jumps using a spring and in the jump direction there is no path, but a positioned element, the player jumps to [0,0]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NDc3NDc0MSwtNjQ1NzI5MzEzLDE3ND
-IzNjE3MzAsLTEyNjk5ODM2MSwtNTc1NjY4NzgzLC0yMDExNTE5
-NjRdfQ==
+eyJoaXN0b3J5IjpbLTE2MzgwMjUwNDIsLTY0NTcyOTMxMywxNz
+QyMzYxNzMwLC0xMjY5OTgzNjEsLTU3NTY2ODc4MywtMjAxMTUx
+OTY0XX0=
 -->
