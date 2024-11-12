@@ -3,7 +3,7 @@
 **Difficultree: 🎄**  
 **Location: Frosty's Beach**
 
-This objective is about the completion of an game, where the player needs to collect crates while following a defined route.
+This objective is about the completion of a game, where the player needs to collect crates while following a chosen and pre-defined route.
 
 ## Easy
 To get the silver achievement, the first 12 levels have to be completed.
@@ -55,6 +55,7 @@ If more than two springs are positioned in the level, a "whyCantIHoldAllTheseSpr
 ### Spring jump to [0,0]
 If the player jumps using a spring and in the jump direction there is no path, but a positioned element, the player jumps to [0,0]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTcyOTMxMywxNzQyMzYxNzMwLC0xMj
-Y5OTgzNjEsLTU3NTY2ODc4MywtMjAxMTUxOTY0XX0=
+eyJoaXN0b3J5IjpbLTIxNDUzMzcyODgsLTY0NTcyOTMxMywxNz
+QyMzYxNzMwLC0xMjY5OTgzNjEsLTU3NTY2ODc4MywtMjAxMTUx
+OTY0XX0=
 -->
