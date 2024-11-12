@@ -10,9 +10,9 @@ To get the silver achievement, the first 12 levels have to be completed.
 The first four are straight forward.
 The remaining levels are shown here. The panel marked blue has to be rotates as needed.
 Level 4: Dune Dash
-![Level 4: Dune Dash](Objective-3/Level 4 - Dune Dash.png) 
+![Level 4: Dune Dash](Level 4 - Dune Dash.png) 
 Level 5: Coral Cove
-![Level 5: Coral Cove](Objective-3/Level 5 - Coral Cove.png) 
+![Level 5: Coral Cove](Level 5 - Coral Cove.png) 
 
 
 **Achievement: [Silver] Elf Minder 9000**
@@ -39,5 +39,6 @@ If more than two springs are positioned in the level, a "whyCantIHoldAllTheseSpr
 ### Spring jump to [0,0]
 If the player jumps using a spring and in the jump direction there is no path, but a positioned element, the player jumps to [0,0]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTY2ODc4MywtMjAxMTUxOTY0XX0=
+eyJoaXN0b3J5IjpbLTk5MzY0MDc1MSwtNTc1NjY4NzgzLC0yMD
+ExNTE5NjRdfQ==
 -->
