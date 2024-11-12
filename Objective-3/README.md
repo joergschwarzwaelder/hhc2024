@@ -29,7 +29,7 @@ The remaining levels are shown here. The panels marked blue have to be rotates a
 **Achievement: [Silver] Elf Minder 9000**
 
 ## Hard
-For the gold achievement, level 13 "A Real Pickle" has to be completed. This was done using a browser console (context "ELF MINDER 9000") to inject a tunnel exit element on the target flag.
+For the gold achievement, level 13 "A Real Pickle" has to be completed. This was done using the browser console (context "ELF MINDER 9000") to inject a tunnel exit element on the target flag.
 #### Positioned elements:
 ```
 game.entities=[[1,1,0],[11,9,1],[9,9,3],[11,7,3],[7,9,3],[5,9,3],[3,9,3],[1,9,3],[11,5,3],[9,5,3],[7,3,3],[5,1,3],[3,3,3],[1,3,3],[9,1,2],[5,3,2],[3,7,2],[7,7,2],[11,3,3],[11,1,3],[3,1,7],[9,3,7],[11,9,6],[1,7,6]]
@@ -54,6 +54,6 @@ If more than two springs are positioned in the level, a "whyCantIHoldAllTheseSpr
 ### Spring jump to [0,0]
 If the player jumps using a spring and in the jump direction there is no path, but a positioned element, the player jumps to [0,0]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTc5MTA1NCwtMTI2OTk4MzYxLC01Nz
+eyJoaXN0b3J5IjpbMTc0MjM2MTczMCwtMTI2OTk4MzYxLC01Nz
 U2Njg3ODMsLTIwMTE1MTk2NF19
 -->
