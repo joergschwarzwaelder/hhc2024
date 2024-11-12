@@ -39,10 +39,6 @@ round=4
 Next, simply complete one single group of four words.
 
 **Achievement: [Gold] Elf Connect**
-
-The completion of this objective unlocks:
-- Elf Connect
-- Elf Minder 9000
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODAzNDY4NDcsLTQzNzI5MDI1Ml19
+eyJoaXN0b3J5IjpbNTY3MzkzNTEzLC00MzcyOTAyNTJdfQ==
 -->
