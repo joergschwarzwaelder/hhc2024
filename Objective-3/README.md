@@ -18,11 +18,11 @@ The remaining levels are shown here. The panels marked blue have to be rotates a
 #### Level 7: Palm Grove Shuffle
 ![Level 7: Palm Grove Shuffle](Level%207%20-%20Palm%20Grove%20Shuffle.png)
 #### Level 8: Tropical Tangle
-![Level 8: Tropical Tangle](Level%208%20-%20tropical%20Tangle.png)
+![Level 8: Tropical Tangle](Level%208%20-%20Tropical%20Tangle.png)
 #### Level 9: Crate Caper
 ![Level 9: Crate Caper](Level%209%20-%20Crate%20Caper.png)
 #### Level 10: Shoreline Shuffle
-![Level 10: Shoreline Shuffle](Level%2010%20-%20Sjhoreline%20Shuffle.png)
+![Level 10: Shoreline Shuffle](Level%2010%20-%20Shoreline%20Shuffle.png)
 #### Level 11: Beachy Bounty
 ![Level 11: Beachy Bounty](Level%2011%20-%20Beachy%20Bounty.png)
 
@@ -54,6 +54,6 @@ If more than two springs are positioned in the level, a "whyCantIHoldAllTheseSpr
 ### Spring jump to [0,0]
 If the player jumps using a spring and in the jump direction there is no path, but a positioned element, the player jumps to [0,0]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3Mzc3ODUyMCwtMTI2OTk4MzYxLC01Nz
+eyJoaXN0b3J5IjpbMjA4Nzk0ODgxMCwtMTI2OTk4MzYxLC01Nz
 U2Njg3ODMsLTIwMTE1MTk2NF19
 -->
