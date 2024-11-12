@@ -8,7 +8,7 @@ The player travels from the green starting flag to the checked goal flag. Up to 
 
 ## Easy
 To get the silver achievement, the first 12 levels have to be completed.
-The first four are straight forward.
+The first four and #13 are straight forward.
 The remaining levels are shown here. The panels marked blue have to be rotated as needed.
 #### Level 4: Dune Dash
 ![Level 4: Dune Dash](Level%204%20-%20Dune%20Dash.png) 
@@ -56,7 +56,7 @@ If more than two springs are positioned in the level, a "whyCantIHoldAllTheseSpr
 ### Spring jump to [0,0]
 If the player jumps using a spring and in the jump direction there is no path, but a positioned element, the player jumps to [0,0]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1Mzk1NzkyLC0xNjM4MDI1MDQyLC02ND
-U3MjkzMTMsMTc0MjM2MTczMCwtMTI2OTk4MzYxLC01NzU2Njg3
-ODMsLTIwMTE1MTk2NF19
+eyJoaXN0b3J5IjpbMjE5MzIxNDAsLTE2MzgwMjUwNDIsLTY0NT
+cyOTMxMywxNzQyMzYxNzMwLC0xMjY5OTgzNjEsLTU3NTY2ODc4
+MywtMjAxMTUxOTY0XX0=
 -->
