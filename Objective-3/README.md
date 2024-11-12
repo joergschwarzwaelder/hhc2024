@@ -51,9 +51,10 @@ By adding a `edit=1` to the game URL, a level editor in started.
 By manipulating "game.segments" it is even possible to have diagonal paths. But due to sanity checks the level completion is not awarded.
 ### too many springs
 If more than two springs are positioned in the level, a "whyCantIHoldAllTheseSprings" is sent to the console.
+![whyCantIHoldAllTheseSprings](whyCantIHoldAllTheseSprings.png)
 ### Spring jump to [0,0]
 If the player jumps using a spring and in the jump direction there is no path, but a positioned element, the player jumps to [0,0]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MjM2MTczMCwtMTI2OTk4MzYxLC01Nz
-U2Njg3ODMsLTIwMTE1MTk2NF19
+eyJoaXN0b3J5IjpbLTY0NTcyOTMxMywxNzQyMzYxNzMwLC0xMj
+Y5OTgzNjEsLTU3NTY2ODc4MywtMjAxMTUxOTY0XX0=
 -->
