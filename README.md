@@ -10,7 +10,8 @@
 ## Snow-maggedon
 
 **Background information:**  
-TBC
+Santa and the Elves are still on the Geese Islands and about to travel back to the North Pole.
+Santa seems to be missing.
 
 [Online Game](https://2024.holidayhackchallenge.com/)
 
@@ -25,6 +26,6 @@ TBC
 ## Holiday Eggs
 TBC
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTY5NjkxNzcsOTU3ODk0MzU0LDEzNj
+eyJoaXN0b3J5IjpbLTExNjU3Mzc0MjgsOTU3ODk0MzU0LDEzNj
 MzMzc3NV19
 -->
