@@ -4,7 +4,7 @@
 **Location: Frosty's Beach**
 
 This objective is about the completion of a game, where the player needs to collect crates while following a chosen and pre-defined route.
-The player travels from the green starting flag to the checked goal flag. Up to two springs (for jumping) and two tunnel elements (to teleport) can be added to the screen. 
+The player travels from the green starting flag to the chequered goal flag. Up to two springs (for jumping) and two tunnel elements (to teleport) can be added to the screen. 
 
 ## Easy
 To get the silver achievement, the first 12 levels have to be completed.
@@ -30,7 +30,7 @@ The remaining levels are shown here. The panels marked blue have to be rotated a
 **Achievement: [Silver] Elf Minder 9000**
 
 ## Hard
-For the gold achievement, level 13 "A Real Pickle" has to be completed. This was done using the browser console (context "ELF MINDER 9000") to inject a tunnel exit element on the target flag in the lower right corner.
+For the gold achievement, level 13 "A Real Pickle" has to be completed. This was done using the browser console (context "ELF MINDER 9000") to inject a tunnel exit element on the chequered target flag in the lower right corner.
 #### Positioned elements:
 ```
 game.entities=[[1,1,0],[11,9,1],[9,9,3],[11,7,3],[7,9,3],[5,9,3],[3,9,3],[1,9,3],[11,5,3],[9,5,3],[7,3,3],[5,1,3],[3,3,3],[1,3,3],[9,1,2],[5,3,2],[3,7,2],[7,7,2],[11,3,3],[11,1,3],[3,1,7],[9,3,7],[11,9,6],[1,7,6]]
@@ -56,7 +56,8 @@ If more than two springs are positioned in the level, a "whyCantIHoldAllTheseSpr
 ### Spring jump to start (green flag)
 If the player jumps using a spring and in the jump direction there is no path, but a positioned element, the player jumps back to the starting point (green flag)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MTkwNjQ5MCwyMTkzMjE0MCwtMTYzOD
-AyNTA0MiwtNjQ1NzI5MzEzLDE3NDIzNjE3MzAsLTEyNjk5ODM2
-MSwtNTc1NjY4NzgzLC0yMDExNTE5NjRdfQ==
+eyJoaXN0b3J5IjpbLTIxMTU2OTg0NTEsLTY2MTkwNjQ5MCwyMT
+kzMjE0MCwtMTYzODAyNTA0MiwtNjQ1NzI5MzEzLDE3NDIzNjE3
+MzAsLTEyNjk5ODM2MSwtNTc1NjY4NzgzLC0yMDExNTE5NjRdfQ
+==
 -->
