@@ -33,6 +33,7 @@ The remaining levels are shown here. The panels marked blue have to be rotated a
 For the gold achievement, level 13 "A Real Pickle" has to be completed.
 
 ![Level 13: A Real Pickle](Level%2013%20-%20A%20Real%20Pickle-2.png)
+
 For using the feature "jump back to start" described below, a first segment can be defined in the lower right corner on the chequered flag.
 With a final spring on the path, the player jumps back to this segment.
 
@@ -64,7 +65,7 @@ If more than two springs are positioned in the level, a "whyCantIHoldAllTheseSpr
 ### Spring jump to start of first segment
 If the player jumps using a spring and in the jump direction there is no path, but a positioned element, the player jumps back to the starting point of the first segment.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQ3MzUxODksLTE0OTYxODM5MTEsLT
+eyJoaXN0b3J5IjpbLTEwMTUyNzI2MTUsLTE0OTYxODM5MTEsLT
 Y2MTkwNjQ5MCwyMTkzMjE0MCwtMTYzODAyNTA0MiwtNjQ1NzI5
 MzEzLDE3NDIzNjE3MzAsLTEyNjk5ODM2MSwtNTc1NjY4NzgzLC
 0yMDExNTE5NjRdfQ==
