@@ -32,7 +32,8 @@ The remaining levels are shown here. The panels marked blue have to be rotated a
 ## Hard
 For the gold achievement, level 13 "A Real Pickle" has to be completed.
 
-
+![Level 13: A Real Pickle](Level%2013%20-%20A%20Real%20Pickle-2.png)
+Using the feature "jump back to start", a first segment can be defined in the l
 
 
 ### alternative
@@ -59,11 +60,11 @@ By manipulating "game.segments" it is even possible to have diagonal paths. But 
 ### too many springs
 If more than two springs are positioned in the level, a "whyCantIHoldAllTheseSprings" is sent to the console.
 ![whyCantIHoldAllTheseSprings](whyCantIHoldAllTheseSprings.png)
-### Spring jump to start (green flag)
-If the player jumps using a spring and in the jump direction there is no path, but a positioned element, the player jumps back to the starting point (green flag).
+### Spring jump to start of first segment
+If the player jumps using a spring and in the jump direction there is no path, but a positioned element, the player jumps back to the starting point of the first segment.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDQ2MTUxODMsLTE0OTYxODM5MTEsLT
-Y2MTkwNjQ5MCwyMTkzMjE0MCwtMTYzODAyNTA0MiwtNjQ1NzI5
-MzEzLDE3NDIzNjE3MzAsLTEyNjk5ODM2MSwtNTc1NjY4NzgzLC
-0yMDExNTE5NjRdfQ==
+eyJoaXN0b3J5IjpbLTcxMDc3MTg3MywtMTQ5NjE4MzkxMSwtNj
+YxOTA2NDkwLDIxOTMyMTQwLC0xNjM4MDI1MDQyLC02NDU3Mjkz
+MTMsMTc0MjM2MTczMCwtMTI2OTk4MzYxLC01NzU2Njg3ODMsLT
+IwMTE1MTk2NF19
 -->
