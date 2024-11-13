@@ -53,10 +53,10 @@ By manipulating "game.segments" it is even possible to have diagonal paths. But 
 ### too many springs
 If more than two springs are positioned in the level, a "whyCantIHoldAllTheseSprings" is sent to the console.
 ![whyCantIHoldAllTheseSprings](whyCantIHoldAllTheseSprings.png)
-### Spring jump to [0,0]
-If the player jumps using a spring and in the jump direction there is no path, but a positioned element, the player jumps to [0,0]
+### Spring jump to start (green flag)
+If the player jumps using a spring and in the jump direction there is no path, but a positioned element, the player jumps back to the starting point (green flag)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE5MzIxNDAsLTE2MzgwMjUwNDIsLTY0NT
-cyOTMxMywxNzQyMzYxNzMwLC0xMjY5OTgzNjEsLTU3NTY2ODc4
-MywtMjAxMTUxOTY0XX0=
+eyJoaXN0b3J5IjpbLTY2MTkwNjQ5MCwyMTkzMjE0MCwtMTYzOD
+AyNTA0MiwtNjQ1NzI5MzEzLDE3NDIzNjE3MzAsLTEyNjk5ODM2
+MSwtNTc1NjY4NzgzLC0yMDExNTE5NjRdfQ==
 -->
