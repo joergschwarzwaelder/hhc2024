@@ -33,11 +33,12 @@ The remaining levels are shown here. The panels marked blue have to be rotated a
 For the gold achievement, level 13 "A Real Pickle" has to be completed.
 
 ![Level 13: A Real Pickle](Level%2013%20-%20A%20Real%20Pickle-2.png)
-Using the feature "jump back to start", a first segment can be defined in the l
+For using the feature "jump back to start" described bel, a first segment can be defined in the lower right corner on the chequered flag.
+With a final spring on the path, the player jumps back to this segment.
 
 
 ### alternative
-This was done using the browser console (context "ELF MINDER 9000") to inject a tunnel exit element on the chequered target flag in the lower right corner.
+A an alternative the browser console can be used (context "ELF MINDER 9000") to inject a tunnel exit element on the chequered target flag in the lower right corner.
 #### Positioned elements:
 ```
 game.entities=[[1,1,0],[11,9,1],[9,9,3],[11,7,3],[7,9,3],[5,9,3],[3,9,3],[1,9,3],[11,5,3],[9,5,3],[7,3,3],[5,1,3],[3,3,3],[1,3,3],[9,1,2],[5,3,2],[3,7,2],[7,7,2],[11,3,3],[11,1,3],[3,1,7],[9,3,7],[11,9,6],[1,7,6]]
@@ -63,8 +64,8 @@ If more than two springs are positioned in the level, a "whyCantIHoldAllTheseSpr
 ### Spring jump to start of first segment
 If the player jumps using a spring and in the jump direction there is no path, but a positioned element, the player jumps back to the starting point of the first segment.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDc3MTg3MywtMTQ5NjE4MzkxMSwtNj
-YxOTA2NDkwLDIxOTMyMTQwLC0xNjM4MDI1MDQyLC02NDU3Mjkz
-MTMsMTc0MjM2MTczMCwtMTI2OTk4MzYxLC01NzU2Njg3ODMsLT
-IwMTE1MTk2NF19
+eyJoaXN0b3J5IjpbLTE4NDk0MjI4MjksLTE0OTYxODM5MTEsLT
+Y2MTkwNjQ5MCwyMTkzMjE0MCwtMTYzODAyNTA0MiwtNjQ1NzI5
+MzEzLDE3NDIzNjE3MzAsLTEyNjk5ODM2MSwtNTc1NjY4NzgzLC
+0yMDExNTE5NjRdfQ==
 -->
