@@ -30,8 +30,6 @@ This clears the objective once the validation is triggered using `slh --view-car
 ## Hard 🥇
 For the hard part, the process `/root/check_hmac`is checking every 5 seconds the contents of the database.
 
-A lot of investigation was performed and - presumably - it was not solved in the intended way.
-
 All access card information along with the tool config is stored in the sqlite3 file "access_cards". The file is writable only by `root`, but the "slh" tool and "sqlite3" are suid `root`.
 
 Database schema and the data for card #42 look like this:
@@ -154,6 +152,6 @@ uid=0(root) gid=0(root) groups=0(root)
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyMzc2MzI5LDU4MTUwNDUzOCwtNDA3Nz
-QwNTc2XX0=
+eyJoaXN0b3J5IjpbLTEyMzI2NDYzMCw3NzIzNzYzMjksNTgxNT
+A0NTM4LC00MDc3NDA1NzZdfQ==
 -->
