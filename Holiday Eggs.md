@@ -41,9 +41,5 @@ This year Jason is in a box on Frosty's Beach. This box does only appear if you 
 The Geese on Frosty Island have internally still the names from HHC2023: goosepixel, goosechristmas2, goosenoir, goosespace, goosesteampunk, goosemisfit.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODc2MDU5NCwyMDY5NTI5NTY2LDE1MD
-M3OTMwOTYsMTA2ODMxNTIwMCwtMjI3OTQwMjAwLDE3NTMxOTg0
-MzMsNjY2MzAwMTc1LDE0NjYzNDYwNTMsMTE5MzAxNDk3NywzOT
-gzNzgzODEsMTM4Mzg5ODE0NiwtMTQ0MTk2MzMxOSwtNzkxNzYy
-NTMxLC0xMTA3NjUyODQxXX0=
+eyJoaXN0b3J5IjpbMTY3ODc2MDU5NF19
 -->
