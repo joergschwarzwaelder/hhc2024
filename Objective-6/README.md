@@ -108,7 +108,5 @@ But reversing it leads to integers across all images. So these integers were use
 The same script uses the same indexing to re-combine the image from the individual shredded parts:   
 ![Recovered image](out.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NTI4NjMyMCwxNDcyOTg4NzEyLC0yMT
-k5NDM3MTUsMjM1MTAyNzAyLDE1MzA5MTExNDcsMTYzODY4NDA0
-MywyMDI2NTMxNjQ4XX0=
+eyJoaXN0b3J5IjpbLTM5NTI4NjMyMF19
 -->
