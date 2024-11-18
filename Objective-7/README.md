@@ -73,7 +73,7 @@ ecb9de15a057305e5887502d46d434c9394f5ed7ef1a51d2930ad786b02f6ffd
 34f4ccd2fda66ac2f3ed2136ce6cddecac92a4437fd2e0fc4ebaad61bc5893eb
 ```
 
-So it seems, that the captured `hmac_secret` is not (directly) the key being used to calculate the HMAC.
+So it seems, that the captured `hmac_secret` is not (directly) the key being used to calculate this HMAC.
 
 Scanning the system shows, that apart from `slh`and `sqlite3` also `runtoanswer`is suid root.
 For the hard mode, `runtoanswer`reads its config from `/etc/runtoanswer/hard.yaml`, which is unfortunately only accessible by `root`. The tool asks for the HMAC key being used to calculate the signatures.
@@ -154,5 +154,5 @@ uid=0(root) gid=0(root) groups=0(root)
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQ2MDA0NzAsLTQwNzc0MDU3Nl19
+eyJoaXN0b3J5IjpbNTYxOTQyMjQ1LC00MDc3NDA1NzZdfQ==
 -->
