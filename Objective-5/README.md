@@ -24,8 +24,5 @@ It finds that `22786` is the second valid code.
 
 **Achievement: [Gold] Frosty Keypad**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODM1MjIyNzQsMzgyNjE1OTc3LC0xNT
-E0MjM5ODMsLTE4MTQzMDM1MTMsMjM0MDMyNzk1LC0xMDQ2MDM3
-MjMwLDE3NzUwMzU1MjQsNDkzMDA1OTQ1LC00NjQxMDcwNjksLT
-Q1ODc5MDU1MSwtMTU5NDUzNzM4Ml19
+eyJoaXN0b3J5IjpbLTEwODM1MjIyNzRdfQ==
 -->
