@@ -31,8 +31,8 @@ Santa seems to be missing.
 
 
 ## Holiday Eggs
-Some [Holiday Eggs](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Holiday%20Eggs.md) were discovered.
+Some [Holiday Eggs](Holiday%20Eggs.md) were discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDI2MTczMiwxMDc3MjkxNDMxLC04Nz
+eyJoaXN0b3J5IjpbLTk4Nzk1ODM0MSwxMDc3MjkxNDMxLC04Nz
 IxODM3ODIsOTU3ODk0MzU0LDEzNjMzMzc3NV19
 -->
