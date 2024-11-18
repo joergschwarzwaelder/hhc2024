@@ -108,7 +108,7 @@ Using the `hmac_secret` from the database it is possible to create the correct s
 So setting this signature in the database for card 42 immediately clears the objective.
 ```
 sqlite> .open access_cards
-sqlite> update access_cards set sig='135a32d5026c5628b1753e6c67015c0f04e26051ef7391c2552de2816b1b7096' where id=42;
+sqlite> update access_cards set access=1,sig='135a32d5026c5628b1753e6c67015c0f04e26051ef7391c2552de2816b1b7096' where id=42;
 ```
 
 ### alternative part 2/hard II
@@ -154,6 +154,6 @@ uid=0(root) gid=0(root) groups=0(root)
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM1MDU0NTI1LDU4MTUwNDUzOCwtNDA3Nz
+eyJoaXN0b3J5IjpbNzcyMzc2MzI5LDU4MTUwNDUzOCwtNDA3Nz
 QwNTc2XX0=
 -->
