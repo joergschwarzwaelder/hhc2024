@@ -24,16 +24,15 @@ Santa seems to be missing.
  - [Objective 1: Holiday Hack Orientation](Objective-1)
  - [Objective 2: Elf Connect](Objective-2)
  - [Objective 3: Elf Minder 9000](Objective-3)
- - [Objective 4: Elf Minder 9000](Objective-3)
- - [Objective 5: Elf Minder 9000](Objective-3)
- - [Objective 6: Elf Minder 9000](Objective-3)
-- 
- - [Objective 3: Elf Minder 9000](Objective-3)
+ - [Objective 4: cURLing](Objective-4)
+ - [Objective 5: Frosty Keypad](Objective-5)
+ - [Objective 6: Hardware Hacking 101 Part 1](Objective-6)
+ - [Objective 7: Hardware Hacking 101 Part 2](Objective-7)
 
 
 ## Holiday Eggs
-to be added
+Some [Holiday Eggs](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Holiday%20Eggs.md) were discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTAxODYzNjIsMTA3NzI5MTQzMSwtOD
-cyMTgzNzgyLDk1Nzg5NDM1NCwxMzYzMzM3NzVdfQ==
+eyJoaXN0b3J5IjpbMTAxNDI2MTczMiwxMDc3MjkxNDMxLC04Nz
+IxODM3ODIsOTU3ODk0MzU0LDEzNjMzMzc3NV19
 -->
