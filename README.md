@@ -24,10 +24,16 @@ Santa seems to be missing.
  - [Objective 1: Holiday Hack Orientation](Objective-1)
  - [Objective 2: Elf Connect](Objective-2)
  - [Objective 3: Elf Minder 9000](Objective-3)
+ - [Objective 4: Elf Minder 9000](Objective-3)
+ - [Objective 5: Elf Minder 9000](Objective-3)
+ - [Objective 6: Elf Minder 9000](Objective-3)
+- 
+ - [Objective 3: Elf Minder 9000](Objective-3)
+
 
 ## Holiday Eggs
 to be added
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NzI5MTQzMSwtODcyMTgzNzgyLDk1Nz
-g5NDM1NCwxMzYzMzM3NzVdfQ==
+eyJoaXN0b3J5IjpbLTEzNTAxODYzNjIsMTA3NzI5MTQzMSwtOD
+cyMTgzNzgyLDk1Nzg5NDM1NCwxMzYzMzM3NzVdfQ==
 -->
