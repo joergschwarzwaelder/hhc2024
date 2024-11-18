@@ -61,6 +61,5 @@ Frosty's Beach 2 is reachable by following the "Dock" signpost in the Front Yard
 |Monitoring Station|Act 1|The Front Yard|41/49|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzA4MDg2LDY0MDAwNDMyMywtODA5OD
-EwNzQ3LC0yMDk4MTEyMTg1XX0=
+eyJoaXN0b3J5IjpbMTAxNzA4MDg2XX0=
 -->
