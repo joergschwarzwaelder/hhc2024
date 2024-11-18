@@ -6,7 +6,7 @@
 This objective is about the completion of a game, where the player needs to collect crates while following a chosen and pre-defined route.
 The player travels from the green starting flag to the chequered goal flag. Up to two springs (for jumping) and two tunnel elements (to teleport) can be added to the screen. 
 
-## Easy
+## Easy 🥈
 To get the silver achievement, the first 12 levels have to be completed.
 The first four and #13 are straight forward.
 The remaining levels are shown here. The panels marked blue have to be rotated as needed.
@@ -29,7 +29,7 @@ The remaining levels are shown here. The panels marked blue have to be rotated a
 
 **Achievement: [Silver] Elf Minder 9000**
 
-## Hard
+## Hard 🥇
 For the gold achievement, level 13 "A Real Pickle" has to be completed.
 
 ![Level 13: A Real Pickle](Level%2013%20-%20A%20Real%20Pickle-2.png)
@@ -65,8 +65,8 @@ If more than two springs are positioned in the level, a "whyCantIHoldAllTheseSpr
 ### Spring jump to start of first segment
 If the player jumps using a spring and in the jump direction there is no path, but a positioned element, the player jumps back to the starting point of the first segment.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMjU5OTY4MCwtMTAxNTI3MjYxNSwtMT
-Q5NjE4MzkxMSwtNjYxOTA2NDkwLDIxOTMyMTQwLC0xNjM4MDI1
-MDQyLC02NDU3MjkzMTMsMTc0MjM2MTczMCwtMTI2OTk4MzYxLC
-01NzU2Njg3ODMsLTIwMTE1MTk2NF19
+eyJoaXN0b3J5IjpbODMyMDE3MzI1LDIwMTI1OTk2ODAsLTEwMT
+UyNzI2MTUsLTE0OTYxODM5MTEsLTY2MTkwNjQ5MCwyMTkzMjE0
+MCwtMTYzODAyNTA0MiwtNjQ1NzI5MzEzLDE3NDIzNjE3MzAsLT
+EyNjk5ODM2MSwtNTc1NjY4NzgzLC0yMDExNTE5NjRdfQ==
 -->
