@@ -104,7 +104,7 @@ The validation using Cyberchef confirms, that this is the right key: https://gch
 **Achievement: [Gold] Hardware Hacking 101 Part 2**
 
 ### alternative part 2/hard I
-Using the HMAC secret from the database it is possible to create the correct signature using [CyberChef](https://gchq.github.io/CyberChef/#recipe=HMAC%28%7B%27option%27:%27UTF8%27,%27string%27:%279ed1515819dec61fd361d5fdabb57f41ecce1a5fe1fe263b98c0d6943b9b232e%27%7D,%27SHA256%27%29&input=MWMwNjAxOGI2LTVlODAtNDM5NS1hYjcxLWFlNTEyNDU2MDE4OQ) for the payload `1c06018b6-5e80-4395-ab71-ae5124560189`:
+Using the HMAC secret from the database it is possible to create the correct signature using [CyberChef](https://gchq.github.io/CyberChef/#recipe=HMAC%28%7B%27option%27:%27UTF8%27,%27string%27:%279ed1515819dec61fd361d5fdabb57f41ecce1a5fe1fe263b98c0d6943b9b232e%27%7D,%27SHA256%27%29&input=MWMwNjAxOGI2LTVlODAtNDM5NS1hYjcxLWFlNTEyNDU2MDE4OQ) for the payload `1c06018b6-5e80-4395-ab71-ae5124560189`:   
 So setting this signature in the database for card 42 immediately clears the objective.
 ```
 sqlite> .open access_cards
@@ -154,5 +154,5 @@ uid=0(root) gid=0(root) groups=0(root)
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMjA4NTc5OCwtNDA3NzQwNTc2XX0=
+eyJoaXN0b3J5IjpbNTgxNTA0NTM4LC00MDc3NDA1NzZdfQ==
 -->
