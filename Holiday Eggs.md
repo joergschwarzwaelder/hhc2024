@@ -1,3 +1,4 @@
+
 # Holiday Eggs
 
 ### Dad Jokes
@@ -40,6 +41,8 @@ This year Jason is in a box on Frosty's Beach. This box does only appear if you 
 ### Holiday Hack Challenge 2023
 The Geese on Frosty Island have internally still the names from HHC2023: goosepixel, goosechristmas2, goosenoir, goosespace, goosesteampunk, goosemisfit.
 
+### Dwarf on MOASB
+The dwarf on the MOASB (Snowball Challenge) shouts "Yippee-Ki-Yay, MotherFroster!" which is a reference to the "Die Hard" films.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODc2MDU5NF19
+eyJoaXN0b3J5IjpbLTE5OTM3NzI0NjZdfQ==
 -->

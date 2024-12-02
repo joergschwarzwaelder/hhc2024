@@ -15,6 +15,10 @@
 | cURLing|Act 1|The Front Yard|34/33|
 | Hardware Part 1|Act 1|The Front Yard|60/37|
 | Hardware Part 2|Act 1|The Front Yard|59/37|
+| PowerShell|Act 2|The Front Yard|62/17|
+| Snowball Showdown|Act 2|The Front Yard|29/29|
+| Drone Path|Act 2|The Front Yard|43/49|
+| The Great Elf Conflict|Act 2|The Front Yard|39/34|
 
 ### NPCs
 |NPC Name|Act|Area|Coordinates|
@@ -37,6 +41,17 @@
 |Olivia|Prologue|Frosty's Beach 2|22/8|
 |James|Prologue|Frosty's Beach 2|26/8|
 |Grace|Prologue|Frosty's Beach 2|21/9|
+|Piney Sappington|Act 2|The Front Yard|61/17|
+|Sparkle Redberry|Act 2|The Front Yard|14/25|
+|Alabaster Snowball|Act 2|The Front Yard|18/29|
+|Dusty Giftwrap|Act 2|The Front Yard|29/32|
+|Pepper Minstix|Act 2|The Front Yard|38/34|
+|Wunorse Openslae|Act 2|The Front Yard|40/34|
+|Wombley Cube|Act 2|The Front Yard|58/38|
+|Eve Snowshoes|Act 2|The Front Yard|16/42|
+|Chimney Scissorsticks|Act 2|The Front Yard|42/48|
+|Garland Candlesticks|Act 2|The Front Yard|69/48|
+
 
 **Remark:**   
 Frosty's Beach 2 is reachable by following the "Dock" signpost in the Front Yard in the lower left corner.
@@ -61,5 +76,5 @@ Frosty's Beach 2 is reachable by following the "Dock" signpost in the Front Yard
 |Monitoring Station|Act 1|The Front Yard|41/49|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzA4MDg2XX0=
+eyJoaXN0b3J5IjpbMTc2ODUxNTg1NiwxMDE3MDgwODZdfQ==
 -->
