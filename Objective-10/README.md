@@ -174,6 +174,5 @@ ForEach ($row in $( Invoke-WebRequest -URI http://localhost:1225/token_overview.
 
 **Achievement: [Gold] PowerShell**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTkzNTQ4NCwxMjAwODM4NTE2LDE0OT
-c2OTIxNTFdfQ==
+eyJoaXN0b3J5IjpbMTEyMTkzNTQ4NF19
 -->
