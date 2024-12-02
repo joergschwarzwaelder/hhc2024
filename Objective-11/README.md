@@ -28,6 +28,5 @@ summons a plane with a huge bomb. Wombley is defeated immediately.
 
 **Achievement: [Gold] Snowball Showdown**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTc0MDkyNDgsNzUyMzM0MTI4LC0xNz
-U1MDMxODkxXX0=
+eyJoaXN0b3J5IjpbLTE2NTc0MDkyNDhdfQ==
 -->
