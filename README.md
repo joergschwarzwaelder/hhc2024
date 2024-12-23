@@ -24,15 +24,20 @@ Santa seems to be missing.
  - [Objective 1: Holiday Hack Orientation](Objective-1)
  - [Objective 2: Elf Connect](Objective-2)
  - [Objective 3: Elf Minder 9000](Objective-3)
+### Act 1
  - [Objective 4: cURLing](Objective-4)
  - [Objective 5: Frosty Keypad](Objective-5)
  - [Objective 6: Hardware Hacking 101 Part 1](Objective-6)
  - [Objective 7: Hardware Hacking 101 Part 2](Objective-7)
-
+### Act 2
+ - [Objective 8: Mobile Analysis](Objective-8)
+ - [Objective 8: Mobile Analysis](Objective-8)
+- [Objective 8: Mobile Analysis](Objective-8)
+### Act 3
 
 ## Holiday Eggs
 Some [Holiday Eggs](Holiday%20Eggs.md) were discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExOTI3ODY4NywxMDc3MjkxNDMxLC04Nz
+eyJoaXN0b3J5IjpbLTc4NDMxMTk0MywxMDc3MjkxNDMxLC04Nz
 IxODM3ODIsOTU3ODk0MzU0LDEzNjMzMzc3NV19
 -->
