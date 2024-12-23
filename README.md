@@ -31,13 +31,15 @@ Santa seems to be missing.
  - [Objective 7: Hardware Hacking 101 Part 2](Objective-7)
 ### Act 2
  - [Objective 8: Mobile Analysis](Objective-8)
- - [Objective 8: Mobile Analysis](Objective-8)
-- [Objective 8: Mobile Analysis](Objective-8)
+ - [Objective 9: Drone Path](Objective-9)
+ - [Objective 10: PowerShell](Objective-10)
+ - [Objective11: Snowball Showdown](Objective-11)
+ - [Objective 12: Microsoft KC7](Objective-12)
 ### Act 3
 
 ## Holiday Eggs
 Some [Holiday Eggs](Holiday%20Eggs.md) were discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDMxMTk0MywxMDc3MjkxNDMxLC04Nz
-IxODM3ODIsOTU3ODk0MzU0LDEzNjMzMzc3NV19
+eyJoaXN0b3J5IjpbNjk1MzI0MTQ3LDEwNzcyOTE0MzEsLTg3Mj
+E4Mzc4Miw5NTc4OTQzNTQsMTM2MzMzNzc1XX0=
 -->
