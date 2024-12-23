@@ -20,7 +20,7 @@ Santa seems to be missing.
 [Location of NPC, Terminals, and Items](Directory.md)
 
 ## Objectives
-
+### Prologue
  - [Objective 1: Holiday Hack Orientation](Objective-1)
  - [Objective 2: Elf Connect](Objective-2)
  - [Objective 3: Elf Minder 9000](Objective-3)
@@ -33,6 +33,6 @@ Santa seems to be missing.
 ## Holiday Eggs
 Some [Holiday Eggs](Holiday%20Eggs.md) were discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4Nzk1ODM0MSwxMDc3MjkxNDMxLC04Nz
+eyJoaXN0b3J5IjpbMTExOTI3ODY4NywxMDc3MjkxNDMxLC04Nz
 IxODM3ODIsOTU3ODk0MzU0LDEzNjMzMzc3NV19
 -->
