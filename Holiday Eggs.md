@@ -43,7 +43,8 @@ The Geese on Frosty Island have internally still the names from HHC2023: goosepi
 ### Dwarf on MOASB
 The dwarf on the MOASB (Snowball Challenge) shouts "Yippee-Ki-Yay, MotherFroster!" which is a reference to the "Die Hard" films.
 
-![enter image description here](moasb.png)
+![enter image description here](images/moasb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNDI4NjY3NCw3NTA1NTA3MTZdfQ==
+eyJoaXN0b3J5IjpbLTE2NzMzMzMzMywxNzA0Mjg2Njc0LDc1MD
+U1MDcxNl19
 -->
