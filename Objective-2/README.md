@@ -24,13 +24,13 @@ The Javascript source gives away the solutions:
 ```
 So from each individual word set, words 0,5,10,14 (for set one: Tinsel, Garland, Star, Lights) form one group, words 1,3,7,9 the next one and so on.
 
-## Easy 🥈
+## Silver 🥈
 Just complete the game according to the information from the JS source.
 
 **Achievement: [Silver] Elf Connect**
 
-## Hard 🥇
-Completing the objective in the "hard" way and getting the "Gold" achievement is possible using the browser's developer console.
+## Gold 🥇
+ Gold objective in the "hard" way and getting the "Gold" achievement is possible using the browser's developer console.
 Open the "Console" and select the context "Christmas Word Connect Game".
 ```
 score=60000
@@ -40,6 +40,6 @@ Next, simply complete one single group of four words.
 
 **Achievement: [Gold] Elf Connect**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDQxOTMxNDYsNzk4MzcwMTE5LC0xNj
-Q1ODE0MDA5LC00MzcyOTAyNTJdfQ==
+eyJoaXN0b3J5IjpbOTk4ODc4MzkzLDc5ODM3MDExOSwtMTY0NT
+gxNDAwOSwtNDM3MjkwMjUyXX0=
 -->
