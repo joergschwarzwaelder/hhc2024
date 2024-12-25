@@ -27,7 +27,8 @@ sqlite> update access_cards set access=1,sig='e96c7dc0f25ebcbc45c9c077d4dc44adb6
 ```
 This clears the objective once the validation is triggered using `slh --view-card 42`.
 
-## Hard 🥇
+
+## Gold 🥇
 For the hard part, the process `/root/check_hmac`is checking every 5 seconds the contents of the database.
 
 All access card information along with the tool config is stored in the sqlite3 file "access_cards". The file is writable only by `root`, but the "slh" tool and "sqlite3" are suid `root`.
@@ -152,6 +153,6 @@ uid=0(root) gid=0(root) groups=0(root)
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzI2NDYzMCw3NzIzNzYzMjksNTgxNT
-A0NTM4LC00MDc3NDA1NzZdfQ==
+eyJoaXN0b3J5IjpbLTE2MTg2MTY3ODcsLTEyMzI2NDYzMCw3Nz
+IzNzYzMjksNTgxNTA0NTM4LC00MDc3NDA1NzZdfQ==
 -->
