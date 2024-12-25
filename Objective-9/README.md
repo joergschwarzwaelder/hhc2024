@@ -4,7 +4,7 @@
 **Difficultree: 🎄🎄🎄**  
 **Location: Front Yard (Act 2), DMZ**
 
-## Easy 🥈
+## Silver 🥈
 Chimney provides us with a KML file https://hhc24-dronepath.holidayhackchallenge.com/files/fritjolf-Path.kml
 
 If this is plotted in a GIS tool, like Google Earth, this path reveals the password "GUMDROP1" for the user "fritjolf".
@@ -25,7 +25,7 @@ Following the hints, the [CSV file](https://hhc24-dronepath.holidayhackchallenge
 
 **Achievement: [Silver] Drone Path**
 
-## Hard 🥇
+## Gold 🥇
 
 The hints state that the focus should be on "TRUE" carvers.
 As the CSV contains a lot of "TRUE"/"FALSE" values, the rows containing only "FALSE" values were filtered out.
@@ -41,5 +41,5 @@ This reveals the password **EXPERTTURKEYCARVERMEDAL**.
 Alternatively this [Perl script](DronePathGold.pl) can be used.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyMjE0MzcxLDQyOTg3MDk2NV19
+eyJoaXN0b3J5IjpbMjA4MzEyOTcwOSw0Mjk4NzA5NjVdfQ==
 -->
