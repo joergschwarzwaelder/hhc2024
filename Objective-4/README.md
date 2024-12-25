@@ -5,7 +5,8 @@
 
 This objective is about getting familiar with the **curl** command.
 
-## Easy 🥈
+
+## Silver 🥈
 ```
 curl http://curlingfun:8080
 curl -k https://curlingfun:9090
@@ -17,7 +18,7 @@ curl -k --path-as-is https://curlingfun:9090/../../etc/hacks
 ```
 **Achievement: [Silver] cURLing**
 
-## Hard 🥇
+## Gold 🥇
 In the terminal is the file `HARD-MODE.txt`with instructions:
 ```
 - HTTP POST request to https://curlingfun:9090/
@@ -34,5 +35,5 @@ curl -k -L https://curlingfun:9090/GoodSportsmanship
 
 **Achievement: [Gold] cURLing**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzY0NjExOTRdfQ==
+eyJoaXN0b3J5IjpbMTM5MDQ4NTMzOCwtMjAzNjQ2MTE5NF19
 -->
