@@ -30,7 +30,7 @@ Just complete the game according to the information from the JS source.
 **Achievement: [Silver] Elf Connect**
 
 ## Gold 🥇
- Gold objective in the "hard" way and getting the "Gold" achievement is possible using the browser's developer console.
+Getting the "Gold" achievement is possible using the browser's developer console.
 Open the "Console" and select the context "Christmas Word Connect Game".
 ```
 score=60000
@@ -40,6 +40,6 @@ Next, simply complete one single group of four words.
 
 **Achievement: [Gold] Elf Connect**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk4ODc4MzkzLDc5ODM3MDExOSwtMTY0NT
-gxNDAwOSwtNDM3MjkwMjUyXX0=
+eyJoaXN0b3J5IjpbMTQyMTYxOTA2NSw3OTgzNzAxMTksLTE2ND
+U4MTQwMDksLTQzNzI5MDI1Ml19
 -->
