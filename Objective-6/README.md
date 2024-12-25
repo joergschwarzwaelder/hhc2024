@@ -3,7 +3,8 @@
 **Difficultree: 🎄**  
 **Location: The Front Yard**
 
-## Easy 🥈
+
+## Silver 🥈
 The objective is to connect the "Santa's Little Helper tool" to a serial UART interface using jumper cables. In addition, the right settings for the serial connection have to be found.
 Hints for the serial connections settings are provides by an image shredded into 1000 pieces along with a [Python script](https://gist.github.com/arnydo/5dc85343eca9b8eb98a0f157b9d4d719) for recovering the image using edge detection.
 
@@ -30,8 +31,9 @@ Having wired everything and set voltage to 3V and the serial port to "USB0", the
 
 **Achievement: [Silver] Hardware Hacking 101 Part 1**
 
-## Hard 🥇
-The hard part can be solved with taking a look into the Javascript sources:
+
+## Gold 🥇
+The Gold part can be solved with taking a look into the Javascript sources:
 ```
 // Build the URL with the request ID as a query parameter
 // Word on the wire is that some resourceful elves managed to brute-force their way in through the v1 API.
@@ -108,5 +110,5 @@ But reversing it leads to integers across all images. So these integers were use
 The same script uses the same indexing to re-combine the image from the individual shredded parts:   
 ![Recovered image](out.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NTI4NjMyMF19
+eyJoaXN0b3J5IjpbODI4MjEwNTg3LC0zOTUyODYzMjBdfQ==
 -->
