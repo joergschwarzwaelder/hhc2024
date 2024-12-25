@@ -6,7 +6,7 @@
 
 The objective is to interact with a web service using PowerShell.
 
-## Easy 🥈
+## Silver 🥈
 For easy, the player is guided through different activities to familiarize with PowerShell.
 
 
@@ -81,7 +81,7 @@ $s.Cookies.Add($c2)
 
 **Achievement: [Silver] PowerShell**
 
-## Hard 🥇
+## Gold 🥇
 Starting with the `token_overview.csv`, the objective is to bypass the security systems of the application.
 
 ```
@@ -174,5 +174,5 @@ ForEach ($row in $( Invoke-WebRequest -URI http://localhost:1225/token_overview.
 
 **Achievement: [Gold] PowerShell**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTkzNTQ4NF19
+eyJoaXN0b3J5IjpbLTEyMDUyOTk2NTIsMTEyMTkzNTQ4NF19
 -->
