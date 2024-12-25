@@ -6,7 +6,7 @@
 
 For this objective an Android application package is provided. It contains a list of children - with one of them not being displayed in the user interface. The target is to find this missing name.
 
-## Easy 🥈
+## Silver 🥈
 The objective is to analyze a provided Android application in .apk format.
 
 When unpacking the application, it is easy to find the file `DatabaseHelper.smali` which contains the database initialization details like this:
@@ -19,8 +19,8 @@ Comparing the `INSERT` statements with what is displayed when the app is run in 
 
 **Achievement: [Silver] Mobile Analysis**
 
-## Hard 🥇
-For the hard part, a similar application is provided in an .aab format.
+## Gold 🥇
+For the Gold part, a similar application is provided in an .aab format.
 As here the `INSERT`statements contain encrypted data, it is not that easy to perform an analysis here.
 
 Instead, the application was analyzed in an Android emulator.
@@ -57,5 +57,5 @@ Verifying in the UI of the app does now show "Joshua, Birmingham, United Kingdom
 
 **Achievement: [Gold] Mobile Analysis**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjg3NDY1ODhdfQ==
+eyJoaXN0b3J5IjpbMzY3Nzc1Mjg5LC0xMTI4NzQ2NTg4XX0=
 -->
