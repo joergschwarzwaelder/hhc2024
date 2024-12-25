@@ -4,7 +4,7 @@
 **Difficultree: 🎄🎄🎄**  
 **Location: Front Yard (Act 2), DMZ**
 
-## Easy 🥈
+## Silver 🥈
 
 ### KQL101
 
@@ -35,7 +35,7 @@ a2V5bG9nZ2VyLmV4ZQ==
 **Achievement: [Silver] Microsoft KC7**
 
 
-## Hard 🥇
+## Gold 🥇
 
 ### Operation Snowfall
 
@@ -66,5 +66,5 @@ frosty
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjM3NjU3OF19
+eyJoaXN0b3J5IjpbNzg0NTYzOTcwLDEzOTIzNzY1NzhdfQ==
 -->
