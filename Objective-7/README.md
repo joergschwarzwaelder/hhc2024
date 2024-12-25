@@ -6,7 +6,7 @@
 
 The objective is to enable badge card #42 for access in the "Santa's Little Helpers" tool.
 
-## Easy 🥈
+## Silver 🥈
 For this mode, a hint is provided to look into the history of the shell.
 In fact, in the history this command is captured:
 ```
@@ -29,7 +29,7 @@ This clears the objective once the validation is triggered using `slh --view-car
 
 
 ## Gold 🥇
-For the hard part, the process `/root/check_hmac`is checking every 5 seconds the contents of the database.
+For the Gold part, the process `/root/check_hmac`is checking every 5 seconds the contents of the database.
 
 All access card information along with the tool config is stored in the sqlite3 file "access_cards". The file is writable only by `root`, but the "slh" tool and "sqlite3" are suid `root`.
 
@@ -153,6 +153,6 @@ uid=0(root) gid=0(root) groups=0(root)
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTg2MTY3ODcsLTEyMzI2NDYzMCw3Nz
-IzNzYzMjksNTgxNTA0NTM4LC00MDc3NDA1NzZdfQ==
+eyJoaXN0b3J5IjpbMTUyOTEwMTI1MSwtMTIzMjY0NjMwLDc3Mj
+M3NjMyOSw1ODE1MDQ1MzgsLTQwNzc0MDU3Nl19
 -->
