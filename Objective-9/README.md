@@ -42,8 +42,9 @@ Alternatively this [Perl script](DronePathGold.pl) can be used.
 
 ### Additional
 
+As the [search function](https://hhc24-dronepath.holidayhackchallenge.com/workshop) of the workshop is SQL injectable, it it also possible to carve out other details from the database:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMDA5NTI4MywyMDgzMTI5NzA5LDQyOT
-g3MDk2NV19
+eyJoaXN0b3J5IjpbNTAyNDc5MDMwLDIwODMxMjk3MDksNDI5OD
+cwOTY1XX0=
 -->
