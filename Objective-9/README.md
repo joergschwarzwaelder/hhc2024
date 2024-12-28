@@ -61,9 +61,17 @@ So we have the Elf "fritjolf" and the Troll "Pip":
 |User|Avatar|Password MD5|Password clear|
 |--|--|--|--|
 |fritjolf  |elf5.png  | 2bb7ab7713cc012f02eb03c95f6e4443 | GUMDROP1 |
-|pip  | 2cf1d29136d246eeb42149e65358abb3.png | e54efff9e6258bef3eb35f093e3bae00 |  |
+|pip  | 2cf1d29136d246eeb42149e65358abb3.png | e54efff9e6258bef3eb35f093e3bae00 | RumbleInTheJungle |
+
+In addition there are five more users in the database:
+
+brynne, lira, sprigg, tylwen
+
+using the MD5 password hashes:
+
+2fd03c8ea542a7fd85ca4ebbcc13d5ca, 3c3a4f722ec77c1712941003443a4d83, 4f7f1b7c49fa2b0cc22e2d2599f1f2e5, 9eb6c13b1b18bc785ffb84d977bf5499, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2Nzc0NTc3OCwyMDgzMTI5NzA5LDQyOT
+eyJoaXN0b3J5IjpbLTYzNTE1MjcyMiwyMDgzMTI5NzA5LDQyOT
 g3MDk2NV19
 -->
