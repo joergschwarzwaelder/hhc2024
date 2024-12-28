@@ -60,8 +60,8 @@ curl "https://hhc24-dronepath.holidayhackchallenge.com//api/v1.0/drones?drone=Za
 So we have the Elf "fritjolf" and the Troll "Pip":
 |User|Avatar|Password MD5|Password clear|
 |--|--|--|--|
-|fritjolf  |elf5.png  | 2bb7ab7713cc012f02eb03c95f6e4443 | GUMDROP1 |
-|pip  | 2cf1d29136d246eeb42149e65358abb3.png | e54efff9e6258bef3eb35f093e3bae00 | RumbleInTheJungle |
+|fritjolf  |elf5.png ![elf5.png](https://hhc24-dronepath.holidayhackchallenge.com/static/profilepictures/elf5.png)  | 2bb7ab7713cc012f02eb03c95f6e4443 | GUMDROP1 |
+|pip  | 2cf1d29136d246eeb42149e65358abb3.png ![2cf1d29136d246eeb42149e65358abb3.png](https://hhc24-dronepath.holidayhackchallenge.com/static/profilepictures/2cf1d29136d246eeb42149e65358abb3.png)| e54efff9e6258bef3eb35f093e3bae00 | RumbleInTheJungle |
 
 In addition there are five more users in the database:
 
@@ -80,6 +80,6 @@ elf6.png,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MDQxMzYxNiwyMDgzMTI5NzA5LDQyOT
-g3MDk2NV19
+eyJoaXN0b3J5IjpbNjA1NDk0OTcyLDIwODMxMjk3MDksNDI5OD
+cwOTY1XX0=
 -->
