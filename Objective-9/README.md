@@ -40,6 +40,10 @@ This reveals the password **EXPERTTURKEYCARVERMEDAL**.
 
 Alternatively this [Perl script](DronePathGold.pl) can be used.
 
+### Additional
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MzEyOTcwOSw0Mjk4NzA5NjVdfQ==
+eyJoaXN0b3J5IjpbMTgzMDA5NTI4MywyMDgzMTI5NzA5LDQyOT
+g3MDk2NV19
 -->
