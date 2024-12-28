@@ -57,6 +57,8 @@ curl "https://hhc24-dronepath.holidayhackchallenge.com//api/v1.0/drones?drone=Za
 [{"name":"2cf1d29136d246eeb42149e65358abb3.png","quantity":1,"weapons":1},{"name":"Zapper","quantity":"5","weapons":"CarrotSpike"},{"name":"elf13.png","quantity":1,"weapons":1},{"name":"elf17.png","quantity":1,"weapons":1},{"name":"elf23.png","quantity":1,"weapons":1},{"name":"elf3.png","quantity":1,"weapons":1},{"name":"elf5.png","quantity":1,"weapons":1},{"name":"elf6.png","quantity":1,"weapons":1}]
 ```
 
+There is also a "bio" column which can be fetched from the database.
+
 So we have the Elf "fritjolf" and the Troll "Pip":
 |User|Avatar|Password MD5|Password clear|
 |--|--|--|--|
@@ -80,6 +82,6 @@ elf6.png,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA1NDk0OTcyLDIwODMxMjk3MDksNDI5OD
-cwOTY1XX0=
+eyJoaXN0b3J5IjpbMTM2NjQyMzUsMjA4MzEyOTcwOSw0Mjk4Nz
+A5NjVdfQ==
 -->
