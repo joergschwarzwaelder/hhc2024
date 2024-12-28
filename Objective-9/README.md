@@ -78,10 +78,10 @@ and the Avatars:
 elf13.png, 
 elf17.png, 
 elf3.png, 
-elf6.png, 
+elf6.png
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NjQyMzUsMjA4MzEyOTcwOSw0Mjk4Nz
-A5NjVdfQ==
+eyJoaXN0b3J5IjpbMTIwMTUxNzg1NSwxMzY2NDIzNSwyMDgzMT
+I5NzA5LDQyOTg3MDk2NV19
 -->
