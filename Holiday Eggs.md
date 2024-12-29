@@ -46,8 +46,16 @@ The dwarf on the MOASB (Snowball Challenge) shouts "Yippee-Ki-Yay, MotherFroster
 ![enter image description here](images/moasb.png)
 
 ### Shenanigans
-This year t
+This year the Shenanigans areas re-appeared. It is possible to teleport there using a web socket message with a non-existing target like this:
+```
+{
+  "type":"TELEPORT_USER",
+  "destination":"frontyardact4"
+,"entranceName":"frontyardact3-oh2"
+}
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODMyMDcwLDE3MDQyODY2NzQsNzUwNT
-UwNzE2XX0=
+eyJoaXN0b3J5IjpbLTE4MzA2NjIzOTIsMTcwNDI4NjY3NCw3NT
+A1NTA3MTZdfQ==
 -->
