@@ -50,12 +50,15 @@ This year the Shenanigans areas re-appeared. It is possible to teleport there us
 ```
 {
   "type":"TELEPORT_USER",
-  "destination":"frontyardact4"
-,"entranceName":"frontyardact3-oh2"
+  "destination":"frontyardact4",
+  "entranceName":"frontyardact3-oh2"
 }
 ```
+![Shenanigans Area](images/shenanigans.jpg)
 
+The area marked red is not accessible, because according to the raw data there is a "santamagic" terminal.
+The exist on the upper left
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzA2NjIzOTIsMTcwNDI4NjY3NCw3NT
-A1NTA3MTZdfQ==
+eyJoaXN0b3J5IjpbMjEzMjE5MzkxLDE3MDQyODY2NzQsNzUwNT
+UwNzE2XX0=
 -->
