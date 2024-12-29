@@ -56,9 +56,12 @@ This year the Shenanigans areas re-appeared. It is possible to teleport there us
 ```
 ![Shenanigans Area](images/shenanigans.jpg)
 
-The area marked red is not accessible, because according to the raw data there is a "santamagic" terminal.
-The exist on the upper left
+The area marked red is not accessible, because according to the raw data there is a "santamagic" terminal:
+```
+"terminal":[{"id":"santamagic","x":16,"y":5,"z":1}],
+```
+The exit on the upper left just leads into a black nowhere.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMjE5MzkxLDE3MDQyODY2NzQsNzUwNT
-UwNzE2XX0=
+eyJoaXN0b3J5IjpbMTM3ODk5MzA3NiwxNzA0Mjg2Njc0LDc1MD
+U1MDcxNl19
 -->
